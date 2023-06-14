@@ -9,3 +9,4 @@ the spacebar stl can be found here https://matt3o.com/mt3-row-5-spacebar-stls-al
 it is pretty simple to install just download the firmware folder unzip and copy the files to the circuit.py drive.
 NOTE the drive wont show up if you plug it in after uploading the code. i have it set so the drive will only mount if a certain key is being pressed while being plugged in. it is currently set to space bar, this can be changed in the boot file. if you dont want this just comment out the boot file.
 
+!kebord.png.md
